@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="Black">
+    <option name="sdkName" value="/Applications/Anaconda/anaconda3 (7)" />
+  </component>
+>>>>>>> 57d1785 (Initial commit)
   <component name="ProjectRootManager" version="2" project-jdk-name="/Applications/Anaconda/anaconda3 (7)" project-jdk-type="Python SDK" />
 </project>
